@@ -1,9 +1,11 @@
 /* CCS da NAV de todas as paginas */
 
 header {
-    padding: 20px 0;
-    background: url("fundo_main.jpg");
-    border-bottom: 3px solid black;
+    padding: 40px 0;
+    background: url("miu\ miu（ミュウミュウ）のロゴマーク\ _\ 【無料配布】イラレ_イラストレーター_ベクトル\ パスデータ保管庫【ai・eps\ ベクター素材】.jpeg");
+    border-bottom: 10px solid black;
+    display: flex;
+    justify-content: center;
 }
 
 .caixa {
@@ -63,13 +65,14 @@ nav a:hover {
 
 .titulo_sobre {
     font-weight: bold;
-    font-size: 30px;
+    font-size: 50px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     margin: 30px 0;
 }
 
 .text {
+    text-align: center;
     font-size: 18px;
     font-family: 'Roboto', sans-serif;
     margin: 20px 0;
