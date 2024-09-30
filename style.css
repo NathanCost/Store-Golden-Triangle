@@ -54,7 +54,7 @@ nav a:hover {
 }
 
 .mapa {
-    width: 960px;
+    width: 600px;
     margin: 0 auto;
 }
 
@@ -84,14 +84,6 @@ nav a:hover {
     margin: 9px;
 }
 
-.Beneficios_lista {
-    display: inline-block;
-    font-family: 'Roboto', sans-serif;
-    width: 30%;
-    border: 2px solid #000000;
-    border-radius: 70px;
-}
-
 .Beneficios_lista:hover {
     border-color: #ff0000;
     color: #0080c0;
@@ -99,17 +91,7 @@ nav a:hover {
 }
 
 .text_b {
-    font-size: 18px;
-    font-family: 'Roboto', sans-serif;
-    margin: 15px 0;
-}
-
-.img_esq{
-    width: 150px;
-    animation: girar_esq  5s linear alternate infinite;
-}
-
-.img_dir{
+    font-size:li><a class="nav-botao-text" href="produtos.html">Produtos</a></li>
     width: 150px;
     animation: girar_dir  5s linear alternate infinite;
 }
@@ -236,17 +218,7 @@ footer {
 /* CCS da pagina contatos */
 
 .form-contato {
-    width: 940px;
-    margin: 0 auto;
-    margin-top: 30px;
-}
-
-.label_entradas {
-    display: block;
-    font-size: 20px;
-    margin: 0 0 10px;
-    font-weight: bold;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width:li><a class="nav-botao-text" href="produtos.html">Produtos</a></li>amily: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     accent-color: #009d27;
 }
 
